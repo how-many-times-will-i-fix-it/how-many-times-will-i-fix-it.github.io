@@ -85,6 +85,76 @@
     "image": "game.png"
   },
   {
+    "name": "Pokemon Black",
+    "directory": "pokemon1",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Black 2",
+    "directory": "pokemon2",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon White",
+    "directory": "pokemon3",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon White 2",
+    "directory": "pokemon4",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Red",
+    "directory": "pokemon5",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Blue",
+    "directory": "pokemon6",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon yellow",
+    "directory": "pokemon7",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Green",
+    "directory": "pokemon8",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Leaf Green",
+    "directory": "pokemon9",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Fire Red",
+    "directory": "pokemon10",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Ruby",
+    "directory": "pokemon11",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Sapphire",
+    "directory": "pokemon12",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Silver",
+    "directory": "pokemon13",
+    "image": "game.png"
+  },
+  {
+    "name": "Pokemon Gold",
+    "directory": "pokemon14",
+    "image": "game.png"
+  },
+  {
     "name": "BloodMoney",
     "directory": "bloodmoney",
     "image": "game.png"
