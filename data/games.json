@@ -154,6 +154,11 @@
     "directory": "pokemon14",
     "image": "game.png"
   },
+    {
+    "name": "Pokemon Emerald",
+    "directory": "pokemon15",
+    "image": "game.png"
+  },
   {
     "name": "BloodMoney",
     "directory": "bloodmoney",
@@ -1020,6 +1025,7 @@
     "image": "game.png"
   }
 ]
+
 
 
 
